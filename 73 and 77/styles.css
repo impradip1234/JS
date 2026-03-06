@@ -1,0 +1,42 @@
+*{
+    background-color:black;
+        color:white;
+
+}
+h1{
+    font-weight:900;
+    text-align:center;
+}
+.card{
+    border:2px solid white;
+    margin: 10px;
+    padding:10px;
+    display:flex;
+    height:190px;
+    width:fit-content;
+    position:relative;
+    justify-content: center;
+ 
+}
+.card img{
+   width:250px;
+
+}
+.text h4{
+    margin-top:30px;
+}
+.text {
+    word-wrap:normal;
+    padding-top:0px;
+    margin-left:10px;
+}
+.time{
+    position:absolute;
+    bottom:30px;
+    left:196px;
+    font-size:20px;
+    border-radius:8px;
+    margin: 10px;
+    padding: 3px;
+    opacity:0.8;
+}
