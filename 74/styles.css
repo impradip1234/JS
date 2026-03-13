@@ -1,0 +1,27 @@
+.container{
+    width: fit-content;
+    border:2px solid black;
+    background-color: rgb(133, 108, 108);
+    color:red;
+    padding: 10px;
+    margin: 10px;
+}
+.box{
+    border:2px solid black;
+    background-color: black;
+    color:red;
+    padding: 10px;
+    margin: 10px;
+}
+#btn{
+    width:90px;
+    padding: 10px;
+    margin: 10px;
+    color:rgb(138, 138, 223);
+    background-color:rgb(181, 181, 40);
+
+}
+.sabsebada{
+    border: 2px solid black;
+    background-color:brown;
+}
